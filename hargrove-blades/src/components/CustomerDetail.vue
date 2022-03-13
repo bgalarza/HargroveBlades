@@ -58,5 +58,3 @@ export default ({
     }
 })
 </script>
-
-<style src="../assets/style.css"></style>

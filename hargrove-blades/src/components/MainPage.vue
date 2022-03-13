@@ -1,5 +1,4 @@
 <template>
-<CustomerDetail />
 <div id = 'app'>
   <div class="main-title">
         <h1 class="title">Hargrove-Blades</h1>
